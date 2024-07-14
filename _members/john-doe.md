@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Meghal Dani
 image: images/photo.jpg
 role: phd
 group: alum
