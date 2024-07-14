@@ -1,8 +1,8 @@
 # site properties and page defaults
-title: Muthu-JeyanthiDESCRIPTION=An engaging 1-3 sentence description of your lab.
-subtitle: 
+title: C³N Lab
+subtitle: Cognitive and Clinical Computational Neuroscience Laboratory, University of Tuebingen in Germany headed by Dr Stefanie Liebe
 description: 
-header: images/background.jpg
+header: 
 footer: images/background.jpg
 proofer: false
 
