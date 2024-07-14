@@ -1,7 +1,7 @@
 ---
 ---
 
-# Muthu-JeyanthiDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+### We are interested in cognitive neuroscience research related to vision and memory, while maintaining a close relationship to clinical applications with the potential to provide transferrable insights for understanding neurological disorders with a specific focus on epilepsy. To this end, we use novel machine-learning methods, and in particular artificial neural networks, to analyse and interpret measurements of neural activity and behaviour. 
 
 
 
