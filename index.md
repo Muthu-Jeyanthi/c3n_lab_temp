@@ -78,3 +78,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+{% include section.html %}
+
+## News
+
+{% include section.html %}
+## Funding Agencies
+
+
+
