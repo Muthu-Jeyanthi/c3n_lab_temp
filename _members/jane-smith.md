@@ -1,5 +1,5 @@
 ---
-name: Dr Stefani Liebe
+name: Dr Stefanie Liebe
 image: images/photo.jpg
 role: pi
 affiliation: 
