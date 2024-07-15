@@ -1,6 +1,16 @@
+---
+title: Home
+---
 ## Cognitive and Clinical Computational Neuroscience (C³N) Lab 
 ### We are interested in cognitive neuroscience research related to vision and memory, while maintaining a close relationship to clinical applications with the potential to provide transferrable insights for understanding neurological disorders with a specific focus on epilepsy. To this end, we use novel machine-learning methods, and in particular artificial neural networks, to analyse and interpret measurements of neural activity and behaviour. 
 
+{:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/background.jpg" %}
+
+{% include section.html %}
 
 
 {% include section.html %}
