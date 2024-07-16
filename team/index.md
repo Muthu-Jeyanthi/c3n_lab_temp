@@ -20,6 +20,3 @@ nav:
 
 {% include collab_list.html data="collab" component="collab_portrait"%}
 
-{% include section.html %}
-
-{% include grid.html style="square" content=content %}
