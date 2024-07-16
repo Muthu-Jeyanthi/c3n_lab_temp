@@ -1,11 +1,11 @@
-- name: Collab 1
+- name: Name
   image: images/team/some-image.jpg
-  affiliation: Uni-1
-  website: www.google.com
+  affiliation: University Name
+  website: https://www.mackelab.org/people/#:~:text=Members-,Jakob%20Macke,-%7C%20Principal%20Investigator%20%7C
     
 
 - name: Collab 2
   image: images/team/some-image.jpg
   affiliation: Uni-2
-  website: www.google.com
+  website: https://www.google.com
   
