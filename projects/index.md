@@ -1,27 +1,69 @@
+<style>
+.research-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.research-image {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.research-description {
+  flex: 2;
+}
+
+.research-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+</style>
+
+
+
 ---
-title: Projects
+title: Research
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 1
+  tooltip: Research themes and projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-brain" %}Research Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
+## Title 1
+<div class="research-item">
+  <div class="research-image">
+    <img src="images/fallback.svg" alt="Image for Title 1">
+  </div>
+  <div class="research-description">
+    Description of the research theme
+  </div>
+</div>
 
 {% include section.html %}
 
-## More
+## Title 2
+<div class="research-item">
+  <div class="research-image">
+    <img src="images/fallback.svg" alt="Image for Title 2">
+  </div>
+  <div class="research-description">
+    Description of the research theme
+  </div>
+</div>
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include section.html %}
+
+## Title 3
+<div class="research-item">
+  <div class="research-image">
+    <img src="images/fallback.svg" alt="Image for Title 3">
+  </div>
+  <div class="research-description">
+    Description of the research theme
+  </div>
+</div>
+
+{% include section.html %}
