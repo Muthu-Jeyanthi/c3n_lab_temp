@@ -16,6 +16,8 @@ nav:
 
 {% include section.html %}
 
+{% include list.html data="collab" component="portrait"%}
+
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
