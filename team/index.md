@@ -12,17 +12,14 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
+{% include section.html %}
+
 # {% include icon.html icon="fa-solid fa-users" %}Collaborators
 
 {% include section.html %}
 
 {% include collab_list.html data="collab" component="collab_portrait"%}
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-
-
-{% endcapture %}
+{% include section.html %}
 
 {% include grid.html style="square" content=content %}
