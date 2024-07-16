@@ -1,1 +1,13 @@
+- name: Collab 1
+  image: images/team/some-image.jpg
+  affiliation:
+  links:
+    home-page: https://tims-website.com/
+    email: tim-member@email.com
 
+- name: Collab 2
+  image: images/team/some-image.jpg
+  affiliation:
+  links:
+    home-page: https://tims-website.com/
+    email: tim-member@email.com
