@@ -10,7 +10,7 @@ nav:
 ## Title 1
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px;">
-    <img src="images/fallback.svg" alt="Image for Title 1" style="max-width: 100%; height: auto; display: block;">
+    <img src="images/photo.jpg" alt="Image for Title 1" style="max-width: 100%; height: auto; display: block;">
   </div>
   <div style="flex: 2;">
     Description of the research theme
@@ -22,7 +22,7 @@ nav:
 ## Title 2
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px;">
-    <img src="images/fallback.svg" alt="Image for Title 2" style="max-width: 100%; height: auto; display: block;">
+    <img src="images/photo.jpg" alt="Image for Title 2" style="max-width: 100%; height: auto; display: block;">
   </div>
   <div style="flex: 2;">
     Description of the research theme
@@ -34,7 +34,7 @@ nav:
 ## Title 3
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px;">
-    <img src="images/fallback.svg" alt="Image for Title 3" style="max-width: 100%; height: auto; display: block;">
+    <img src="images/photo.jpg" alt="Image for Title 3" style="max-width: 100%; height: auto; display: block;">
   </div>
   <div style="flex: 2;">
     Description of the research theme
