@@ -16,13 +16,12 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="collab" component="portrait"%}
+{% include collab_list.html data="collab" component="collab_portrait"%}
 
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+
 
 {% endcapture %}
 
