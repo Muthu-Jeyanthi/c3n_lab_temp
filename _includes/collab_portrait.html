@@ -11,9 +11,6 @@
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" }}"
   >
-    {% if type %}
-      {% include icon.html icon=type.icon %}
-    {% endif %}
 
     <img
       src="{{ member.image | relative_url }}"
@@ -29,9 +26,9 @@
       </span>
     {% endif %}
 
-    {% if member.description or type %}
+    {% if member.dept %}
       <span class="portrait-description">
-        {{ member.description | default: type.description }}
+        {{ member.dept}}
       </span>
     {% endif %}
 
