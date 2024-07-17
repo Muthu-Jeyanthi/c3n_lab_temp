@@ -39,7 +39,7 @@ A short description of our research projects.
 A list of all our publications
 {%
   include button.html
-  link="research"
+  link="publications"
   text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
