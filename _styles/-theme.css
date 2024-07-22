@@ -3,7 +3,7 @@
   --secondary: #08215C; /* Darker blue for hover or secondary actions */
   --text: #000000; /* Black text */
   --background: #ffffff; /* White background */
-  --background-alt: #ffffff; /* Light gray for alternate backgrounds */
+  /*--background-alt: #ffffff; Light gray for alternate backgrounds */
   --light-gray: #e0e0e0; /* Light gray for borders and subtle elements */
   --gray: #b0b0b0; /* Medium gray for less prominent elements */
   --dark-gray: #404040; /* Dark gray for accents or text in secondary areas */
