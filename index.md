@@ -6,6 +6,13 @@
 </div>
 <p>We are interested in cognitive neuroscience research related to vision and memory, while maintaining a close relationship to clinical applications with the potential to provide transferrable insights for understanding neurological disorders with a specific focus on epilepsy. To this end, we use novel machine-learning methods, and in particular artificial neural networks, to analyse and interpret measurements of neural activity and behaviour. </p>
 
+{%
+  include feature.html
+  image="images/photo.jpg"
+  flip=true
+  style="bare"
+  text=text
+%}
 
 {% include section.html %}
 
@@ -51,7 +58,7 @@ A list of all our publications
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="publications"
   title="Our Publications"
   flip=true
   style="bare"
