@@ -3,15 +3,15 @@
 
 // colors
 [data-dark="false"] {
-  --primary: #0795d9;
-  --secondary: #7dd3fc;
-  --text: #000000;
-  --background: #ffffff;
-  --background-alt: #fafafa;
-  --light-gray: #e0e0e0;
-  --gray: #808080;
-  --dark-gray: #404040;
-  --overlay: #00000020;
+  --primary: #7abaf2; /* Pastel blue */
+  --secondary: #a0d6f1; /* Light pastel blue */
+  --text: #333333; /* Dark gray for readability */
+  --background: #f5faff; /* Very light pastel blue */
+  --background-alt: #eaeaea; /* Light gray */
+  --light-gray: #d0d0d0;
+  --gray: #a0a0a0;
+  --dark-gray: #808080;
+  --overlay: rgba(0, 0, 0, 0.1); /* Light overlay for soft effect */
 }
 [data-dark="true"] {
   --primary: #0795d9;
