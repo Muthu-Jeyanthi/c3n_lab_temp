@@ -2,13 +2,13 @@
 ---
 {% capture text %}
 
-<div style="text-align: left; justify-content: flex-start;">
+<div style="text-align: left; justify-content: flex-start; min-height: 100vh;">
 
 <h3 style="font-size: 1.4em;">Dr. Stefanie Liebe - Cognitive, clinical and computational neuroscience research </h3>
-</div>
+
 <p style="font-size: 1.2em;">I am interested in neuroscience research related to vision and memory, while maintaining a close relationship to clinical applications with the potential to provide transferrable insights for understanding neurological disorders with a specific focus on epilepsy. To this end, we use machine-learning methods, and in particular artificial neural networks, to analyse and interpret measurements of neural activity and behaviour.  </p>
 {% endcapture %}
-
+</div>
 {%
   include feature.html
   image="images/photo.jpg"
