@@ -1,0 +1,12 @@
+- name: 
+  image: images/team/some-image.jpg
+  dept: 
+  affiliation: 
+  website: https://www.mackelab.org/people/#:~:text=Members-,Jakob%20Macke,-%7C%20Principal%20Investigator%20%7C
+    
+
+- name: 
+  image: images/team/some-image.jpg
+  affiliation: 
+  website: https://www.google.com
+  
