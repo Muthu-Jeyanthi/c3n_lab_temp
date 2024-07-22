@@ -4,9 +4,9 @@
 
 <div style="text-align: center; justify-content: center;">
 
-<h3 style="font-size: 2.5em;">Dr. Stefanie Liebe - Cognitive, clinical and computational neuroscience research </h3>
+<h3 style="font-size: 1.6em;">Dr. Stefanie Liebe - Cognitive, clinical and computational neuroscience research </h3>
 </div>
-<p style="font-size: 2.5em;">I am interested in neuroscience research related to vision and memory, while maintaining a close relationship to clinical applications with the potential to provide transferrable insights for understanding neurological disorders with a specific focus on epilepsy. To this end, we use machine-learning methods, and in particular artificial neural networks, to analyse and interpret measurements of neural activity and behaviour.  </p>
+<p style="font-size: 1.4em;">I am interested in neuroscience research related to vision and memory, while maintaining a close relationship to clinical applications with the potential to provide transferrable insights for understanding neurological disorders with a specific focus on epilepsy. To this end, we use machine-learning methods, and in particular artificial neural networks, to analyse and interpret measurements of neural activity and behaviour.  </p>
 {% endcapture %}
 
 {%
