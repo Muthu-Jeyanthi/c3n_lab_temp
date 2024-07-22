@@ -1,5 +1,5 @@
 ---
-img: "/team/meghal-dani.jpg"
+img: "/images/MDani.jpg"
 name: Meghal Dani
 role: PhD Researcher
 order: 4
