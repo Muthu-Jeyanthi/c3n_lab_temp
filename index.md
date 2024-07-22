@@ -4,9 +4,9 @@
 
 <div style="text-align: center; justify-content: center;">
 
-<h3>Cognitive and Clinical Computational Neuroscience (C³N) Lab </h3>
+<h3>Dr. Stefanie Liebe - Cognitive, clinical and computational neuroscience research</h3>
 </div>
-<p>We are interested in cognitive neuroscience research related to vision and memory, while maintaining a close relationship to clinical applications with the potential to provide transferrable insights for understanding neurological disorders with a specific focus on epilepsy. To this end, we use novel machine-learning methods, and in particular artificial neural networks, to analyse and interpret measurements of neural activity and behaviour. </p>
+<p>I am interested in neuroscience research related to vision and memory, while maintaining a close relationship to clinical applications with the potential to provide transferrable insights for understanding neurological disorders with a specific focus on epilepsy. To this end, we use machine-learning methods, and in particular artificial neural networks, to analyse and interpret measurements of neural activity and behaviour.  </p>
 {% endcapture %}
 
 {%
@@ -23,8 +23,7 @@
 
 {% capture text %}
 
-A short description of our research projects.
-
+We invite you to explore our research projects, which span a range of topics including neural activity during memory processes, the application of artificial intelligence for clinical diagnostics, and advancements in spatial hearing.
 {%
   include button.html
   link="research"
@@ -46,7 +45,7 @@ A short description of our research projects.
 
 {% capture text %}
 
-A list of all our publications
+Access a comprehensive list of our scholarly publications that reflect our ongoing contributions to neuroscience.
 {%
   include button.html
   link="publications"
@@ -70,7 +69,7 @@ A list of all our publications
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Discover the researchers driving our advancements in cognitive and clinical neuroscience.
 
 {%
   include button.html
@@ -91,9 +90,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% include section.html %}
-
-## News
 
 {% include section.html %}
 ## Funding Agencies
