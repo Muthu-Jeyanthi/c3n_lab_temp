@@ -94,5 +94,8 @@ Discover the researchers driving our advancements in cognitive and clinical neur
 {% include section.html %}
 ## Funding Agencies
 
+{% include collab_list.html data="funding" component="collab_portrait"%}
+
+
 
 
