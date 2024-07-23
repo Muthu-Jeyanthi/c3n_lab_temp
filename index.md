@@ -1,6 +1,5 @@
 ---
 ---
-{% capture text %}
 
 <div style="display: flex; align-items: center; justify-content: space-between; min-height: 100vh; padding: 20px; box-sizing: border-box;">
   <div style="flex: 1; padding-right: 20px;">
@@ -12,7 +11,6 @@
   </div>
 </div>
 
-{% endcapture %}
 
 
 
