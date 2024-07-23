@@ -6,7 +6,7 @@
     <h3 style="font-size: 1.4em;">Dr. Stefanie Liebe - Cognitive, clinical and computational neuroscience research </h3>
     <p style="font-size: 1.2em;">I am interested in neuroscience research related to vision and memory, while maintaining a close relationship to clinical applications with the potential to provide transferrable insights for understanding neurological disorders with a specific focus on epilepsy. To this end, we use machine-learning methods, and in particular artificial neural networks, to analyse and interpret measurements of neural activity and behaviour.</p>
   </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
+  <div style="flex: 1; display: flex; justify-content: center; padding-left: 40px;">
     <img src="images/photo.jpg" alt="Intro Picture" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
 </div>
