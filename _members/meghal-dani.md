@@ -1,18 +1,23 @@
 ---
-img: /images/MDani.jpg
+image: /images/MDani.jpg
 name: Meghal Dani
-role: PhD Researcher
+role: phd
+affiliation: International Max-Planck Research School for Intelligent Systems (IMPRS-IS)
+
 order: 4
 link: meghal-dani
-mail: meghal.dani (at) uni-tuebingen.com 
+
+email: meghal.dani (at) uni-tuebingen.com 
 linkedin: https://www.linkedin.com/in/meghal-dani-84825525/
 github: https://github.com/meghalD
-scholar: https://scholar.google.com/citations?user=VOaQuLUAAAAJ
+google-scholar: https://scholar.google.com/citations?user=VOaQuLUAAAAJ
+
 ---
+
 
 # Profile
 
-Meghal Dani is a Ph.D. candidate under the Else Kröner-Fresenius Foundation (EKFS) grant at the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). She is associated with [EML](https://www.eml-unitue.de/) and the C^3N Lab under the supervision of [Prof. Dr. Zeynep Akata](https://is.mpg.de/person/zakata) and [Dr. rer. nat. Stefanie Liebe](https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2335) respectively (*Earlier also worked at [MIDAS lab](http://midaslab.org/index.html) with [Prof. Dr. Med. Sergios Gatidis](https://med.stanford.edu/profiles/sergios-gatidis), who moved to Stanford in 2023).
+Meghal Dani is a Ph.D. candidate under the Else Kröner-Fresenius Foundation (EKFS) grant at the International Max-Planck Research School for Intelligent Systems (IMPRS-IS). She is associated with [EML](https://www.eml-unitue.de/) and is supervised by [Prof. Dr. Zeynep Akata](https://is.mpg.de/person/zakata) and [Dr. rer. nat. Stefanie Liebe](https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2335) respectively (*Earlier also worked at [MIDAS lab](http://midaslab.org/index.html) with [Prof. Dr. Med. Sergios Gatidis](https://med.stanford.edu/profiles/sergios-gatidis), who moved to Stanford in 2023).
 
 She received her bachelor's degree in Computer Science Engineering from BIT Mesra in 2016 and focused on AI in healthcare during her master's at IIIT Delhi, majoring in Computational Biology (2017-2019). Since then, she has been interested in developing modern deep learning systems in healthcare that have the potential to make diagnostic decisions of similar quality to attending doctors. She worked as a full-time researcher (2019-2021) at Tata Research and Innovation Labs in the area of Deep Learning and AI under the supervision of Senior Scientist Dr. Lovekesh Vig and [Ramya Hebbalaguppe](https://rhebbalaguppe.github.io/).
 
