@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: C³N Lab
+title: C³N
 subtitle:
 description:  Cognitive and Clinical Computational Neuroscience Laboratory, University of Tuebingen in Germany headed by Dr Stefanie Liebe
-header: 
-footer:
+header: images/new_bg.jpg
+footer: images/new_bg.jpg
 proofer: false
 
 # site social media and other links
