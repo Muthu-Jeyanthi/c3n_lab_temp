@@ -1,3 +1,5 @@
+---
+---
 <div style="display: flex; align-items: center; justify-content: space-between; min-height: 100vh; padding: 10px; box-sizing: border-box;">
   <div style="flex: 1; padding-right: 40px;">
     <h3 style="font-size: 1.4em;">Dr. Stefanie Liebe - Cognitive, clinical and computational neuroscience research </h3>
