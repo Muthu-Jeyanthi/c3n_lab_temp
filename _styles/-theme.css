@@ -24,10 +24,10 @@
 }
 
 :root {
-  --title: "Barlow", sans-serif;
-  --heading: "Barlow", sans-serif;
-  --body: "Barlow", sans-serif;
-  --code: "Roboto Mono", monospace;
+  --title: "Montserrat", sans-serif;
+  --heading: "Montserrat", sans-serif;
+  --body: "Source Sans Pro", sans-serif;
+  --code: "Fira Code", monospace;
   --large: 1.4rem;
   --xl: 1.6rem;
   --xxl: 1.8rem;
