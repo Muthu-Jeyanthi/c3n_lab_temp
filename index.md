@@ -12,7 +12,7 @@
 
 {% include section.html %}
 
-# Highlights
+## Highlights
 
 {% capture text %}
 
@@ -85,7 +85,7 @@ Discover the researchers driving our advancements in cognitive and clinical neur
 
 
 {% include section.html %}
-# Funding Agencies
+## Funding Agencies
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px;">
   <div style="flex: 1 1 calc(33.333% - 40px); text-align: center; box-sizing: border-box;">
