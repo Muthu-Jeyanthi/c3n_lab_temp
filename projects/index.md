@@ -20,7 +20,7 @@ We analyze patient videos during seizures, perform pose estimation to obtain beh
 __Automated Multimodal Seizure Behavior Detection and Reporting__
 We develop an AI-based multimodal approach to automatically detect seizure-related behaviors and distinguish them from regular behavior using videos. We also generate descriptive reports on the recorded behaviors and subtypes to track disease prognosis in the facility.
 {% endcapture %}
-{% include feature.html image="images/photo.jpg"  text=text %}
+{% include feature.html image="images/epilepsy_focal.jpg"  text=text %}
 
 {% include section.html %}
 
