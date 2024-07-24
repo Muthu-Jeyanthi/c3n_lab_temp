@@ -1,7 +1,7 @@
 [data-dark=false] {
   --primary: #116fca; /* All the buttons under highlights etc */
   --secondary: #14453d; /* Color change on hover */
-  --text: rgba(0,0,0,0); /* Black text */
+  --text: rgba(0,0,0,0.75); /* Black text */
   --headercolor: #042a2b;
   --footercolor:#042a2b;
   --background: #ffffff; /* White background */
