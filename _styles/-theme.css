@@ -1,7 +1,7 @@
 [data-dark=false] {
   --primary: #116fca; /* All the buttons under highlights etc */
   --secondary: #14453d; /* Color change on hover */
-  --text: rgba(0,0,0,0.75); /* Black text */
+  --text: #01053d; /* Black text */
   --headercolor: #042a2b;
   --footercolor:#042a2b;
   --background: #ffffff; /* White background */
@@ -24,17 +24,17 @@
 }
 
 :root {
-  --title: "Avenir", sans-serif;
-  --heading: "Avenir", sans-serif;
-  --body: "Lora", serif;
-  --code: "Cascadia Code", monospace;
+  --title: "Montserrat", sans-serif;
+  --heading: "Montserrat", sans-serif;
+  --body: "Source Sans Pro", sans-serif;
+  --code: "Fira Code", monospace;
   --large: 1.4rem;
   --xl: 1.6rem;
   --xxl: 1.8rem;
-  --thin: 300;
+  --thin: 250;
   --regular: 500;
-  --semi-bold: 600;
-  --bold: 700;
+  --semi-bold: 650;
+  --bold: 800;
   --spacing: 2;
   --compact: 1.5;
   --rounded: 3px;
