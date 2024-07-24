@@ -1,9 +1,9 @@
 [data-dark=false] {
-  --primary: #007bff; /* Accent blue */
-  --secondary: #0091f7; /* Darker blue for hover or secondary actions */
+  --primary: #CD4631; /* Accent blue */
+  --secondary: #00719c; /* Darker blue for hover or secondary actions */
   --text: #000000; /* Black text */
-  --headercolor: #000000;
-  --footercolor:#000000;
+  --headercolor: #001f2b;
+  --footercolor:#001f2b;
   --background: #ffffff; /* White background */
   --background-alt: #A0DDFF; /* Light gray for alternate backgrounds */
   --light-gray: #e0e0e0; /* Light gray for borders and subtle elements */
