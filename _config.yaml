@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: C³N
+title:
 subtitle:
 description:  Cognitive and Clinical Computational Neuroscience Laboratory, University of Tuebingen in Germany headed by Dr Stefanie Liebe
 header: images/new_bg.jpg
@@ -8,9 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@Muthu-JeyanthiDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: stefanie.liebe@uni-tuebingen.de
+  orcid: https://orcid.org/0000-0003-2873-2943
+  google-scholar: https://scholar.google.de/citations?user=38Sq-ZYAAAAJ&hl=en
   github: Muthu-JeyanthiDESCRIPTION=An engaging 1-3 sentence description of your lab.
   twitter: Muthu-JeyanthiDESCRIPTION=An engaging 1-3 sentence description of your lab.
   youtube: Muthu-JeyanthiDESCRIPTION=An engaging 1-3 sentence description of your lab.
