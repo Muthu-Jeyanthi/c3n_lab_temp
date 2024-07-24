@@ -9,12 +9,12 @@
 
 {% assign type = site.data.types[member.role] %}
 
-<div class="portrait-wrapper">
+<div class="logos-wrapper">
   <a
     {% if page.slug != member.slug %}
       href="{{ member.url | relative_url }}"
     {% endif %}
-    class="portrait"
+    class="logos"
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" }}"
   >
@@ -24,26 +24,26 @@
 
     <img
       src="{{ member.image | relative_url }}"
-      class="portrait-image"
+      class="logos-image"
       alt="member portrait"
       loading="lazy"
       {% include fallback.html %}
     >
 
     {% if member.name %}
-      <span class="portrait-name">
+      <span class="logos-name">
         {{ member.name }}
       </span>
     {% endif %}
 
     {% if member.description or type %}
-      <span class="portrait-description">
+      <span class="logos-description">
         {{ member.description | default: type.description }}
       </span>
     {% endif %}
 
     {% if member.affiliation %}
-      <span class="portrait-affiliation">
+      <span class="logos-affiliation">
         {{ member.affiliation }}
       </span>
     {% endif %}
