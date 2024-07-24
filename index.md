@@ -30,7 +30,7 @@ We invite you to explore our research projects, which span a range of topics inc
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/1.png"
   link="projects"
   title="Our Research"
   text=text
@@ -52,7 +52,7 @@ Access a comprehensive list of our scholarly publications that reflect our ongoi
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/3.png"
   link="publications"
   title="Our Publications"
   flip=true
@@ -77,7 +77,7 @@ Discover the researchers driving our advancements in cognitive and clinical neur
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/5.png"
   link="team"
   title="Our Team"
   text=text
