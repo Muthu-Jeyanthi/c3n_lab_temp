@@ -1,12 +1,34 @@
 - name: 
-  image: images/team/some-image.jpg
+  image: images/cluster_ml.png
   dept: 
   affiliation: 
-  website: https://www.mackelab.org/people/#:~:text=Members-,Jakob%20Macke,-%7C%20Principal%20Investigator%20%7C
+  website:
     
 
 - name: 
-  image: images/team/some-image.jpg
+  image: images/cherish.jpg
   affiliation: 
-  website: https://www.google.com
+  website:
   
+- name: 
+  image: images/LOOPS .png
+  affiliation: 
+  website:
+
+
+  - name: 
+  image: images/dfg.jpg
+  affiliation: 
+  website:
+
+
+  - name: 
+  image: images/ekfs.svg
+  affiliation: 
+  website:
+
+
+  - name: 
+  image: images/ec.jpg
+  affiliation: 
+  website:
