@@ -89,6 +89,44 @@ Discover the researchers driving our advancements in cognitive and clinical neur
 
 {% include collab_list.html data="funding" component="logos"%}
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px;">
+  <div style="flex: 1 1 calc(33.333% - 40px); text-align: center; box-sizing: border-box;">
+    <a href="https://example.com/logo1" style="display: block; text-decoration: none; color: inherit;">
+      <img src="images/ec.jpg" alt="Logo 1" style="width: 100%; max-width: 200px; height: auto; border-radius: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <p style="margin-top: 10px;">Logo 1</p>
+    </a>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 40px); text-align: center; box-sizing: border-box;">
+    <a href="https://example.com/logo2" style="display: block; text-decoration: none; color: inherit;">
+      <img src="images/ec.jpg" alt="Logo 2" style="width: 100%; max-width: 200px; height: auto; border-radius: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <p style="margin-top: 10px;">Logo 2</p>
+    </a>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 40px); text-align: center; box-sizing: border-box;">
+    <a href="https://example.com/logo3" style="display: block; text-decoration: none; color: inherit;">
+      <img src="images/ec.jpg" alt="Logo 3" style="width: 100%; max-width: 200px; height: auto; border-radius: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <p style="margin-top: 10px;">Logo 3</p>
+    </a>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 40px); text-align: center; box-sizing: border-box;">
+    <a href="https://example.com/logo4" style="display: block; text-decoration: none; color: inherit;">
+      <img src="images/ec.jpg" alt="Logo 4" style="width: 100%; max-width: 200px; height: auto; border-radius: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <p style="margin-top: 10px;">Logo 4</p>
+    </a>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 40px); text-align: center; box-sizing: border-box;">
+    <a href="https://example.com/logo5" style="display: block; text-decoration: none; color: inherit;">
+      <img src="images/ec.jpg" alt="Logo 5" style="width: 100%; max-width: 200px; height: auto; border-radius: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <p style="margin-top: 10px;">Logo 5</p>
+    </a>
+  </div>
+  <div style="flex: 1 1 calc(33.333% - 40px); text-align: center; box-sizing: border-box;">
+    <a href="https://example.com/logo6" style="display: block; text-decoration: none; color: inherit;">
+      <img src="images/ec.jpg" alt="Logo 6" style="width: 100%; max-width: 200px; height: auto; border-radius: 0; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <p style="margin-top: 10px;">Logo 6</p>
+    </a>
+  </div>
+</div>
 
 
 
