@@ -11,7 +11,6 @@ email: meghal.dani (at) uni-tuebingen.com
 linkedin: https://www.linkedin.com/in/meghal-dani-84825525/
 github: https://github.com/meghalD
 google-scholar: https://scholar.google.com/citations?user=VOaQuLUAAAAJ
-
 ---
 
 
@@ -35,7 +34,7 @@ ICML AI4Science Workshop\
 **DeViL: Decoding Vision features into Language**\
 *Meghal Dani*, Isabel Rio-Torto, Stephan Alaniz, and Zeynep Akata\
 German Conference on Pattern Recognition, 2023 (**Oral**)\
-[Paper](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_FastTrack/094.pdf) | [Code](https://github.com/ExplainableML/DeViL) | <span style="color:black; font-style:italic">This was also presented at the ICCV 2023 Workshop on Closing the Loop Between Vision and Language (CLVL).</span>
+[Paper](https://www.dagm-gcpr.de/fileadmin/dagm-gcpr/pictures/2023_Heidelberg/Paper_FastTrack/094.pdf) | [Code](https://github.com/ExplainableML/DeViL) | This was also presented at the ICCV 2023 Workshop on Closing the Loop Between Vision and Language (CLVL).
 
 &nbsp;
 
