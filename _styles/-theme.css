@@ -2,10 +2,10 @@
   --primary: #007bff; /* Accent blue */
   --secondary: #0091f7; /* Darker blue for hover or secondary actions */
   --text: #000000; /* Black text */
-  --headercolor: #44a4f2;
-  --footercolor:#44a4f2;
+  --headercolor: #000000;
+  --footercolor:#000000;
   --background: #ffffff; /* White background */
-  --background-alt: #e5e5e5; /* Light gray for alternate backgrounds */
+  --background-alt: #A0DDFF; /* Light gray for alternate backgrounds */
   --light-gray: #e0e0e0; /* Light gray for borders and subtle elements */
   --gray: #b0b0b0; /* Medium gray for less prominent elements */
   --dark-gray: #404040; /* Dark gray for accents or text in secondary areas */
