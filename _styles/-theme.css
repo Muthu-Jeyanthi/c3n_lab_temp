@@ -5,7 +5,7 @@
   --headercolor: #042a2b;
   --footercolor:#042a2b;
   --background: #ffffff; /* White background */
-  --background-alt: #EAEAEA; /* Light gray for alternate backgrounds */
+  --background-alt: #ffffff; /* Light gray for alternate backgrounds */
   --light-gray: #e0e0e0; /* Light gray for borders and subtle elements */
   --gray: #b0b0b0; /* Medium gray for less prominent elements */
   --dark-gray: #404040; /* Dark gray for accents or text in secondary areas */
@@ -31,10 +31,10 @@
   --large: 1.4rem;
   --xl: 1.6rem;
   --xxl: 1.8rem;
-  --thin: 200;
-  --regular: 400;
-  --semi-bold: 500;
-  --bold: 600;
+  --thin: 300;
+  --regular: 500;
+  --semi-bold: 600;
+  --bold: 700;
   --spacing: 2;
   --compact: 1.5;
   --rounded: 3px;
