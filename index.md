@@ -12,7 +12,7 @@
 
 {% include section.html %}
 
-## Highlights
+# Highlights
 
 {% capture text %}
 
@@ -85,7 +85,7 @@ Discover the researchers driving our advancements in cognitive and clinical neur
 
 
 {% include section.html %}
-## Funding Agencies
+# Funding Agencies
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; padding: 20px;">
   <div style="flex: 1 1 calc(33.333% - 40px); text-align: center; box-sizing: border-box;">
@@ -105,7 +105,7 @@ Discover the researchers driving our advancements in cognitive and clinical neur
   </div>
   <div style="flex: 1 1 calc(33.333% - 40px); text-align: center; box-sizing: border-box;">
     <a href="https://example.com/logo4" style="display: block; text-decoration: none; color: inherit;">
-      <img src="images/dfg.jpg" alt="DFG Logo" style="width: 100%; max-width: 200px; height: auto; object-fit: contain; border-radius: 0; ">
+      <img src="images/dfg.jpg" alt="DFG Logo" style="width: 100%; max-width: 200px; height: 100px; object-fit: contain; border-radius: 0; ">
     </a>
   </div>
   <div style="flex: 1 1 calc(33.333% - 40px); text-align: center; box-sizing: border-box;">
