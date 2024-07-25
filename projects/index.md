@@ -42,7 +42,7 @@ The goal of the project is to investigate and disentangle the functional contrib
 In this project, we simulate Sound-Localization (SL) in normal hearing individuals and CI-users using a computational model which include deep neural networks.
 Based on simulations, a predictive link between neural computations, behavioural as well as electrophysiological results is established. By comparing network performance for spatial hearing in normal hearing vs CI similarities and distinctions between computations performed in both groups will be identified. Results will be used to design new devices and training procedures for CI-rehabilitation.
 {% endcapture %}
-{% include feature.html image="images/photo.jpg"   text=text %}
+{% include feature.html image="images/cochlear.png"   text=text %}
 
 
 {% include section.html %}
