@@ -13,7 +13,7 @@ links:
   
 ---
 
-# Dr. Stefanie Liebe: Academic and Research Background
+## Academic and Research Background
 
 Dr. Stefanie Liebe is a Clinician Scientist currently affiliated with the University Clinic Tübingen's Department for Neurology and Epileptology and the Cluster of Excellence 'Machine Learning for Science' in Tübingen, Germany. She has a multi-disciplinary background with degrees in psychology, medicine, and neuroscience. As a psychologist, she uses cognitive concepts, experimental paradigms, and procedures to investigate cognitive functions at the behavioral and neuropsychological level. As a neuroscientist, she investigates neural correlates of vision and memory and applies classical neuroscientific data analysis tools as well as advanced machine learning methods to electrophysiological brain measurements obtained from invasive neurophysiological recordings in epilepsy patients. As a clinician, she is familiar with neurological disorders and leverages artificial intelligence methods to support the diagnostic process in epilepsy. Overall, her work is highly collaborative and involves the close interaction between clinical experts from neurology, neurosurgery, neuroradiology, as well as experimental and computational neuroscientists.
 
