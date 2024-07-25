@@ -30,7 +30,7 @@ We develop an AI-based multimodal approach to automatically detect seizure-relat
 {% capture text %}
 The goal of the project is to investigate and disentangle the functional contribution of feedforward and feedback signalling during contextual manipulation across several regions within the human medial temporal lobe – the parahippocampal cortex, the hippocampal formation and the amygdala. We aim to answer the following question: Is task modulation accompanied by changes in the magnitude and direction of interareal interaction engaging specific partners within the MTL network that is dependent on their known functional specializations? We will use pairwise analyses of spike trains and LFPs from human MTL to investigate oscillatory synchrony between areas known to support contextual influences between neural ensembles. We will further discern how feedforward and feedback signaling contributes to contextual modulation at the neuronal population level using multivariate measures. Lastly, using data-constrained recurrent neural network modeling of multi-region neural activity we plan to assess directed functional interactions between these regions. 
 {% endcapture %}
-{% include feature.html image="images/photo.jpg"   text=text %}
+{% include feature.html image="images/context.png"   text=text %}
 
 
 {% include section.html %}
