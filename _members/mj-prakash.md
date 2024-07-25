@@ -3,7 +3,6 @@ name: Muthu Jeyanthi Prakash
 image: images/muthu.jpg
 role: phd
 affiliation: Universitätsklinikum Tübingen
-University of Tuebingen
 links:
   email: muthu-jeyanthi.prakash@uni-tuebingen.de
   github: https://github.com/Muthu-Jeyanthi
