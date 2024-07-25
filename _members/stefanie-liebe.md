@@ -6,41 +6,22 @@ affiliation:
 
 links:
    
-  orcid: 
-  google-scholar:
-  github: 
-  linkedin:
+  orcid: https://orcid.org/0000-0003-2873-2943
+  google-scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=38Sq-ZYAAAAJ&gmla=AETOMgGh1qy5PwsIjqWWuizVFHaW7IQdAPHpdhIAhdMlJikuyfGC7Abtzro4BnwqwKqxjABvieRw8jrCE4aKBHSw5HToILNNm2hG6FjQsibVXpqsu0_I5to1A
+
+  twitter: https://x.com/steliebe
   
 ---
+
 # Dr. Stefanie Liebe: Academic and Research Background
 
-Dr. Stefanie Liebe is a Clinician Scientist and medical resident in Epileptology and Neurology, currently affiliated with the University Clinic Tübingen's Department for Neurology and Epileptology and the Cluster of Excellence 'Machine Learning for Science' in Tübingen, Germany. She has a multi-disciplinary background with degrees in psychology, medicine, and neuroscience. As a psychologist, she understands cognitive concepts, experimental paradigms, and procedures to investigate cognitive functions at the behavioral and neuropsychological level. As a neuroscientist, she has gained technical expertise in electrophysiological measurements and the examination of neural data, including both classical neuroscientific data analysis tools and advanced machine learning methods. As a clinician, she is familiar with neurological disorders, with a specific focus on epilepsy, and the interdisciplinary, sometimes challenging nature of carrying out invasive neurophysiological recordings in epilepsy patients. This involves the highly collaborative work of clinical experts from neurology, neurosurgery, neuroradiology, as well as neuropsychology. Overall, she enjoys working with clinicians, experimental neuroscientists, and computational scientists in close collaborations.
+Dr. Stefanie Liebe is a Clinician Scientist currently affiliated with the University Clinic Tübingen's Department for Neurology and Epileptology and the Cluster of Excellence 'Machine Learning for Science' in Tübingen, Germany. She has a multi-disciplinary background with degrees in psychology, medicine, and neuroscience. As a psychologist, she uses cognitive concepts, experimental paradigms, and procedures to investigate cognitive functions at the behavioral and neuropsychological level. As a neuroscientist, she investigates neural correlates of vision and memory and applies classical neuroscientific data analysis tools as well as advanced machine learning methods to electrophysiological brain measurements obtained from invasive neurophysiological recordings in epilepsy patients. As a clinician, she is familiar with neurological disorders and leverages artificial intelligence methods to support the diagnostic process in epilepsy. Overall, her work is highly collaborative and involves the close interaction between clinical experts from neurology, neurosurgery, neuroradiology, as well as experimental and computational neuroscientists.
 
 ## Education and Qualifications
 
-### Medical School
+Dr. Liebe studied psychology at the Technical University of Dresden and earned her PhD in Neuroscience from the Max Planck International Research School for Neural and Behavioral Sciences in Tübingen. She completed her medical training at the Universities of Tübingen and Bonn, where she started her neurological residency in the Department of Epileptology and worked as a research associate in the lab of Prof. Florian Mormann ([link](https://www.uni-bonn.de/de/forschung-lehre/forschungsprofil/transdisziplinaere-forschungsbereiche/tra-3-life-1/mitgliederverzeichnis/florian-mormann)). In 2020, she moved to the University of Tübingen where she continued her neurological residency in the Department of Epileptology. She is currently a Clinician Scientist with the MINT-CS program and an associated scientist of the International Max Planck Research School: Intelligent Systems.
 
-- **University of Bonn**
-- **University of Tübingen**
-  - 2019: Second State Exam Medicine (grade 1.6), Bonn University Hospital / University of Bonn
-  - 2015: First State Exam Medicine, Tübingen University Hospital / Tübingen University
-
-### PhD and MSc
-
-- 2010: PhD in Neuroscience (Dr. rer. nat.), summa cum laude, Max Planck International Research School for Neural and Behavioral Sciences, Tübingen, Germany
-- 1999-2004: MSc (Diplom) Psychology, Technical University of Dresden (grade 1.0)
-- 2002-2003: Graduate Program of Neural and Cognitive Science, Indiana University, Bloomington, USA (DAAD fellowship)
-
-## Professional Career
-
-### Current Positions
-
-- Since January 2020: Clinician Scientist, Medical Resident in Neurology, and Research Fellow, Tübingen University Hospital
-- Associated Scientist, International Max Planck Research School: Intelligent Systems
-
-### Previous Positions
-
-- September 2019 - August 2020: Medical Resident in Epileptology, Bonn University Hospital
-- February 2016 - August 2020: Research Fellow, Laboratory for Cognitive and Clinical Neurophysiology, University Hospital of Bonn
-- April 2010 - April 2012: International Marie Curie Research Fellow, University College London
-
+She received several awards and grants:
+- MSCA European Training Network (2024)
+- Priority Program “Sensing LOOPS” by the Deutsche Forschungsgemeinschaft (2023)
+- Graduierten Kolleg “Artificial Intelligence for Clinical Brain Science” (2022)
