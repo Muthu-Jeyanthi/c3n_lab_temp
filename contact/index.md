@@ -5,13 +5,15 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-## Contact
+# Contact
+{% include section.html dark=true %}
 
-Inquiries should be directed to [stefanie.liebe@uni-tuebingen.de](mailto:stefanie.liebe@uni-tuebingen.de).
+For inquiries regarding open positions or any other matters, please feel free to contact [stefanie.liebe@uni-tuebingen.de](mailto:stefanie.liebe@uni-tuebingen.de).
+{% include section.html dark=true %}
 
-## How to find us
+# How to find us
+{% include section.html dark=true %}
 
 Maria-von-Linden-Str. 6, 4th floor, 72076 Tübingen
 
@@ -26,62 +28,4 @@ Maria-von-Linden-Str. 6, 4th floor, 72076 Tübingen
   referrerpolicy="no-referrer-when-downgrade">
 </iframe>
 
-
-{%
-  include button.html
-  type="email"
-  text="stefanie.liebe@uni-tuebingen.de"
-  link="stefanie.liebe@uni-tuebingen.de"
-%}
-{%
-  include button.html
-  type="phone"
-  text="07071 29-80442"
-  link="07071 29-80442"
-%}
-
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
 {% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
