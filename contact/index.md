@@ -40,13 +40,6 @@ Maria-von-Linden-Str. 6, 4th floor, 72076 Tübingen
   link="07071 29-80442"
 %}
 
-//{%
- // include button.html
-  //type="address"
-  //tooltip="Our location on Google Maps for easy navigation"
-  //link="https://www.google.com/maps"
-//%}
-
 {% include section.html %}
 
 {% capture col1 %}
