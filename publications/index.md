@@ -7,7 +7,7 @@ nav:
 
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Our list of Publications
+# {% include icon.html icon="fa-solid fa-microscope" %}List of Publications
 
 {% include search-box.html %}
 
