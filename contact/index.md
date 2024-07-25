@@ -7,13 +7,13 @@ nav:
 
 
 # Contact
-{% include section.html dark=true %}
+{% include section.html }
 
 For inquiries regarding open positions or any other matters, please feel free to contact [stefanie.liebe@uni-tuebingen.de](mailto:stefanie.liebe@uni-tuebingen.de).
-{% include section.html dark=true %}
+{% include section.html }
 
 # How to find us
-{% include section.html dark=true %}
+{% include section.html }
 
 Maria-von-Linden-Str. 6, 4th floor, 72076 Tübingen
 
@@ -28,4 +28,4 @@ Maria-von-Linden-Str. 6, 4th floor, 72076 Tübingen
   referrerpolicy="no-referrer-when-downgrade">
 </iframe>
 
-{% include section.html dark=true %}
+{% include section.html}
