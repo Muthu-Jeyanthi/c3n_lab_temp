@@ -9,11 +9,17 @@ nav:
 
 {% include section.html %}
 
-## Neural interaction during context dependent visual processing in the human medial temporal lobe 
+## Understanding working memory with Human Medial Temporal Lobe recordings
 {% include section.html %}
 
 {% capture text %}
-The goal of the project is to investigate and disentangle the functional contribution of feedforward and feedback signalling during contextual manipulation across several regions within the human medial temporal lobe – the parahippocampal cortex, the hippocampal formation and the amygdala. We aim to answer the following question: Is task modulation accompanied by changes in the magnitude and direction of interareal interaction engaging specific partners within the MTL network that is dependent on their known functional specializations? We will use pairwise analyses of spike trains and LFPs from human MTL to investigate oscillatory synchrony between areas known to support contextual influences between neural ensembles. We will further discern how feedforward and feedback signaling contributes to contextual modulation at the neuronal population level using multivariate measures. Lastly, using data-constrained recurrent neural network modeling of multi-region neural activity we plan to assess directed functional interactions between these regions. 
+
+__Role of Gamma and Theta Oscillations in Sequence Memory__
+We investigate the role of theta-gamma oscillations and their relationship to neuronal spikes during encoding and maintenance of sequential information. [Our recent study](https://www.biorxiv.org/content/10.1101/2022.09.25.509370v1.full.pdf), has challenged the long standing view that maintaining sequential information in memory is reflected in ordered firing of neurons at different phases of theta oscillations. By analyzing neural data from Medial Temporal Lobe (MTL) of epilepsy patients and using recurrent neural networks, we uncovered a mechanistic link between phase order, stimulus timing, and oscillation frequency. Our ongoing research aims to further deepen our understanding of how sequence information is maintained by examining gamma, theta and neuronal firing relationships in greater detail.
+
+__Neural interaction during context dependent visual processing in the human medial temporal lobe__
+The goal of the project is to investigate and disentangle the functional contribution of feedforward and feedback signalling during contextual manipulation across several regions within the human MTL. We aim to answer the following question: Is task modulation accompanied by changes in the magnitude and direction of interareal interaction engaging specific partners within the MTL network that is dependent on their known functional specializations? By analyzing spike trains and local field potentials across MTL, we aim to uncover how interareal interactions and oscillatory synchrony contribute to contextual influences. Our approach includes pairwise analyses,  multivariate measures and data-constrained recurrent neural network modelling to assess the directed functional interactions between these regions.
+
 {% endcapture %}
 {% include feature.html image="images/context.png"   text=text %}
 
