@@ -1,6 +1,6 @@
 ---
 name: Dr Stefanie Liebe
-image: images/stefanie.jpeg
+image: images/stefanie.jpg
 
 role: pi
 affiliation: Tübingen University Hospital
