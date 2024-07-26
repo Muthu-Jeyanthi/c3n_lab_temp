@@ -3,9 +3,7 @@ name: Dr Stefanie Liebe
 image: images/stefanie.jpg
 
 role: pi
-affiliation: 
-affiliation: Universitätsklinikum Tübingen <br> Cluster of Excellence 'Machine Learning for Science'
-
+affiliation: Universitätsklinikum Tübingen
 links:
    
   orcid: https://orcid.org/0000-0003-2873-2943
