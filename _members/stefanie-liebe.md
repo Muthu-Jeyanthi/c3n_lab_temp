@@ -4,7 +4,7 @@ image: images/stefanie.jpg
 
 role: pi
 affiliation: 
-affiliation: Universitätsklinikum Tübingen | Cluster of Excellence 'Machine Learning for Science'
+affiliation: Universitätsklinikum Tübingen <br> Cluster of Excellence 'Machine Learning for Science'
 
 links:
    
