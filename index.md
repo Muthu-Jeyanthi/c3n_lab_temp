@@ -40,7 +40,8 @@ Discover the researchers driving our advancements in cognitive and clinical neur
 
 {% capture text %}
 
-We invite you to explore our research projects, which span a range of topics including neural activity during memory processes, the application of artificial intelligence for clinical diagnostics, and advancements in spatial hearing.
+We invite you to explore our research, which spans a range of topics including investigating human brain activity at the single cell level, the application of artificial intelligence for clinical diagnostics in epilepsy and neural processes of spatial hearing.
+
 {%
   include button.html
   link="projects"
