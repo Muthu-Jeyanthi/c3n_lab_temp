@@ -19,7 +19,7 @@
 We invite you to explore our research projects, which span a range of topics including neural activity during memory processes, the application of artificial intelligence for clinical diagnostics, and advancements in spatial hearing.
 {%
   include button.html
-  link="research"
+  link="projects"
   text="See our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
