@@ -16,6 +16,30 @@
 
 {% capture text %}
 
+Discover the researchers driving our advancements in cognitive and clinical neuroscience.
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/5.png"
+  link="team"
+  title="Our Team"
+  text=text
+%}
+
+
+{% capture text %}
+
 We invite you to explore our research projects, which span a range of topics including neural activity during memory processes, the application of artificial intelligence for clinical diagnostics, and advancements in spatial hearing.
 {%
   include button.html
@@ -60,28 +84,6 @@ Access a comprehensive list of our scholarly publications that reflect our ongoi
   text=text
 %}
 
-{% capture text %}
-
-Discover the researchers driving our advancements in cognitive and clinical neuroscience.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/5.png"
-  link="team"
-  title="Our Team"
-  text=text
-%}
 
 
 {% include section.html %}
