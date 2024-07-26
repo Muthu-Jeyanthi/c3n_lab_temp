@@ -59,7 +59,7 @@ We invite you to explore our research projects, which span a range of topics inc
   title="Our Research"
   text=text
 %}
-
+<!--
 {% capture text %}
 
 Access a comprehensive list of our scholarly publications that reflect our ongoing contributions to neuroscience.
@@ -85,7 +85,7 @@ Access a comprehensive list of our scholarly publications that reflect our ongoi
 %}
 
 
-
+-->
 {% include section.html %}
 ## Funding Agencies
 
