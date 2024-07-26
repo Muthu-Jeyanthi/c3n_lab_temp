@@ -1,6 +1,7 @@
 ---
 name: Dr Stefanie Liebe
-image: images/stefanie.png
+image: images/stefanie.jpeg
+
 role: pi
 affiliation: Tübingen University Hospital
 affiliation: Cluster of Excellence 'Machine Learning for Science'
