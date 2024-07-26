@@ -4,7 +4,7 @@
 
 pi:
   icon: fa-solid fa-microscope
-  description: Clinician Scientist
+  description: Principal Investigator
 
 postdoc:
   icon: fa-solid fa-glasses
