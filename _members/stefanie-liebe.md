@@ -21,7 +21,7 @@ Dr. Stefanie Liebe is a Clinician Scientist currently affiliated with the Univer
 
 Dr. Liebe studied psychology at the Technical University of Dresden and earned her PhD in Neuroscience from the Max Planck International Research School for Neural and Behavioral Sciences in Tübingen. She completed her medical training at the Universities of Tübingen and Bonn, where she started her neurological residency in the Department of Epileptology and worked as a research associate in the lab of Prof. [Florian Mormann](https://www.uni-bonn.de/de/forschung-lehre/forschungsprofil/transdisziplinaere-forschungsbereiche/tra-3-life-1/mitgliederverzeichnis/florian-mormann)). In 2020, she moved to the University of Tübingen where she continued her neurological residency in the Department of Epileptology. She is currently a Clinician Scientist with the MINT-CS program and an associated scientist of the International Max Planck Research School: Intelligent Systems.
 
-She received several awards and grants:
-- MSCA European Training Network (2024)
-- Priority Program “Sensing LOOPS” by the Deutsche Forschungsgemeinschaft (2023)
-- Graduierten Kolleg “Artificial Intelligence for Clinical Brain Science” (2022)
+She is a Principal Investigator on several projects funded by the 
+- [Else Kröner Graduierten Kolleg “Artificial Intelligence for Clinical Brain Science” (2022)](https://www.ekfs.de/en/scientific-funding/currently-funded-projects/clinbrain-artificial-intelligence-clinical-brain)
+- [Priority Program “Sensing LOOPS” by the Deutsche Forschungsgemeinschaft (2023)](https://www.brainloops.de/spp2411)
+- [MSCA European Training Network (2024) ‘Cherish’ - Cochlear Implants for spatial hearing](https://cherish-network.eu/training-cherish-eu-msca-doctoral-network-secondment/)
