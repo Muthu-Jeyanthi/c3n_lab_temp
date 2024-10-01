@@ -61,7 +61,6 @@ We invite you to explore our research, which spans a range of topics including i
   text=text
 %}
 
-# [News](/home/mdani31/c3n_lab_temp/news/news.md)
 <!--
 {% capture text %}
 
