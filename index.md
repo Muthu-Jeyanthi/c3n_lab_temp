@@ -61,7 +61,7 @@ We invite you to explore our research, which spans a range of topics including i
   text=text
 %}
 
-# [News](news.md)
+# [News](news/news.md)
 <!--
 {% capture text %}
 

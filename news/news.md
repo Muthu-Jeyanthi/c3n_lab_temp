@@ -9,8 +9,8 @@ nav:
 
 ## Latest Updates
 
-- **Jan:** Stefanie gave a lecture at AIMS Africa
-- **July:** Meghal presented her work at ICML’24 AI for Science workshop
-- **September:** Meghal and Stefanie attended IMPRS-IS bootcamp. 
+- **October:** Raees joins C3N Lab. Welcome to the team!!
 - **September:** Muthu Attended and presented at Bernstein Conference.
-- **October:** Raees joins C3N Lab. Welcome to the team!! 
+- **September:** Meghal and Stefanie attended IMPRS-IS bootcamp.
+- **July:** Meghal presented her work at ICML’24 AI for Science workshop
+- **Jan:** Stefanie gave a lecture at AIMS Africa
