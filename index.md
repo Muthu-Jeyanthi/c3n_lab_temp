@@ -60,6 +60,8 @@ We invite you to explore our research, which spans a range of topics including i
   title="Our Research"
   text=text
 %}
+
+# [News](news.md)
 <!--
 {% capture text %}
 
